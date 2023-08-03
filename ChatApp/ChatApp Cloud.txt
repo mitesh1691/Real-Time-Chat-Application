@@ -1,0 +1,19 @@
+ChatApp Cloud
+
+
+Login Credentials:
+
+Username : mits-chatapp
+Password : chatappmss
+
+
+ChatApp Database:
+
+Db Name: id20773433_chatapp
+db Username: id20773433_mitschatapp
+db Password : Mitssamshubhi@2023
+
+
+ChatApp Link:
+
+https://mits-chatapp.000webhostapp.com/
